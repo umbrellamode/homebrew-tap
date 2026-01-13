@@ -1,7 +1,7 @@
 class Wcp < Formula
   desc "Bidirectional log streaming CLI for AI coding agents"
   homepage "https://wcp.dev"
-  version "0.4.0"
+  version "0.4.1"
   license "MIT"
 
   on_macos do
